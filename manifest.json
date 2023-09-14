@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Contador de Palavras",
+    "version": "1.0",
+    "description": "Uma extensão que conta as palavras em um campo de texto.",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
